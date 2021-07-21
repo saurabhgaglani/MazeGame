@@ -1,7 +1,7 @@
 # MazeGame
 
 # How to play
-Clone the project into any unix computer, open the terminal in full screen then use command\
+Clone the project into any unix computer, open a terminal in full screen then use command\
 #### gcc MazeGame.c -o game\
 Then, type the command/
 #### ./game
